@@ -90,7 +90,8 @@ after you do this.
 
 ### Acknowledgements
 
-This project refers to the implementation of [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu), and I would like to express my gratitude.
+This project refers to the implementation of [tmux-cpu](https://github.com/tmux-plugins/tmux-cpu), and I would like to express my gratitude.  
+Thanks [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) great program.
 
 ### License
 
