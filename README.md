@@ -33,7 +33,7 @@ If format strings are added to `status-right`, they should now be visible.
 
 ### Requirement
 
-`free` is required for memory information.
+`ps` is required for memory information.
 
 ## Usage
 
